@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Coffee
+comment1.params=
+comment1.target=void\ addMilk()
+comment2.params=
+comment2.target=void\ addSugar()
+comment3.params=
+comment3.target=void\ addWater()
+comment4.params=
+comment4.target=void\ make()
+numComments=5

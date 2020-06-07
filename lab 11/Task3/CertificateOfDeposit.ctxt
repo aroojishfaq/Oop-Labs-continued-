@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CertificateOfDeposit
+comment1.params=accountHolderName\ accountNumber\ accountBalance\ interestRate
+comment1.target=CertificateOfDeposit(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=void\ addInterestAmount()
+comment3.params=depositAmount
+comment3.target=void\ deposit(double)
+comment4.params=withdrawAmount
+comment4.target=void\ withdraw(double)
+comment5.params=interestRate
+comment5.target=void\ setInterestRate(double)
+comment6.params=termLengthCompleted
+comment6.target=void\ setAccountMaturity(boolean)
+comment7.params=
+comment7.target=double\ getInterestRate()
+comment8.params=
+comment8.target=boolean\ getAccountMaturity()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

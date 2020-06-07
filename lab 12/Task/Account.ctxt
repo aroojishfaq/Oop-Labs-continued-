@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=Account()
+comment2.params=p
+comment2.target=Account\ getAccount(Person)
+comment3.params=
+comment3.target=int\ getBal()
+comment4.params=bal
+comment4.target=void\ withdraw(int)
+comment5.params=bal
+comment5.target=void\ deposit(int)
+numComments=6
